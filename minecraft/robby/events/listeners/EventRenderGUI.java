@@ -1,0 +1,9 @@
+package robby.events.listeners;
+
+import robby.events.Event;
+
+public class EventRenderGUI extends Event<EventRenderGUI> {
+	
+	
+
+}
