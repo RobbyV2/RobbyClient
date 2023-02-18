@@ -1,5 +1,5 @@
 # RobbyClient
-Still in beta! This is the older source.
+Still in beta! I'll probably release it when it actually looks good. This is the older source.
 
 Website is still in development, currently version b.17 is made and only availible in a close friend group. Mainly for Hypixel (Very buggy) and BlocksMC.
 
